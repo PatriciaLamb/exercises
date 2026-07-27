@@ -1,0 +1,12 @@
+{
+  "name": "edge-case-testing-exercise",
+  "version": "1.0.0",
+  "description": "Exercise: Edge Case Testing for Email Validator",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
