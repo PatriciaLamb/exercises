@@ -1,0 +1,11 @@
+{
+  "name": "anatomy-of-a-test-exercise",
+  "version": "1.0.0",
+  "description": "Übung: Deine ersten Tests",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
