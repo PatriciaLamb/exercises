@@ -1,0 +1,11 @@
+{
+  "name": "weather-client-exercise",
+  "version": "1.0.0",
+  "description": "Exercise: Testing Asynchronous Behavior",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
