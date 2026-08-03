@@ -1,0 +1,11 @@
+{
+  "name": "testing-time-dependent-code-exercise",
+  "version": "1.0.0",
+  "description": "Exercise: Testing time-dependent code with Jest Fake Timers",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
